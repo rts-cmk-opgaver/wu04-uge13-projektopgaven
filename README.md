@@ -13,20 +13,21 @@ Alle ikoner bør være fra fontawesome.com og ellers i svg format
 ## Funktionalitet pr. side
 ### Home
 Hvis der klikkes på et billede skal man føres til WORKS siden.
-* Xtra opgave *
-* Der må gerne være effekter på billedet af designeren *
+*Xtra opgave*
+*Der må gerne være effekter på billedet af designeren*
 ### About
 Kun HTML & CSS
-* Xtra opgave *
-* Når musen flyttes over den enkelte "bar" må der gerne være en animation af baren der flytter sig *
+*Xtra opgave*
+*Når musen flyttes over den enkelte "bar" må der gerne være en animation af baren der flytter sig*
 ### WORKS
 Når man flytter musen henover et billede må der gerne være en effekt af at billedet lige "hopper"
 Hvis der klikkes på billedet, skal der åbnes en LightBox.
-* Xtra opgave *
-* LightBoxen må gerne være et SlideShow *
+*Xtra opgave*
+*LightBoxen må gerne være et SlideShow*
 ### CONTACT
 Almindelig formular validering ved hjælp af HTML
 Der skal være et email link på GDC@behance.net
+
 ---
 ## Aflevering - Push to GitHub
 Når du er færdig skal du uploade/pushe/publishe til det classroom repo som dette her er.
